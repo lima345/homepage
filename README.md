@@ -1,17 +1,11 @@
-# Projeto Site de viabilidade de empreendimentos desde o ano de 2020
+# Bem-vindo ao Meu Projeto 🚀
 
-Este é um projeto de site que utiliza informações de quais negocios tiveram maiores avanços no mercado.
+![Animação Legal](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## 📌 Descrição
+## Sobre este projeto
+Este é um exemplo de README com um GIF logo no início para tornar sua apresentação mais visual e interessante!
 
-WebGL (Web Graphics Library) é uma API JavaScript que permite a renderização de gráficos 3D e 2D acelerados por hardware em navegadores sem a necessidade de plugins externos. Este site utiliza WebGL para criar uma experiência visual interativa.
-
-## 🔧 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- WebGL
-- Biblioteca [three.js](https://threejs.org/) (opcional)
-
-## 📂 Estrutura do Projeto
+## Como usar
+1. Clone este repositório
+2. Abra o arquivo `index.html`
+3. Divirta-se! 😃
